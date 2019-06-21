@@ -6,10 +6,15 @@ In order to achieve this , IR Modules are interfaced to the Arduino Board,which 
 zones of a classroom.The loads are operated by Raspberry Pi board through Relay. A master switch is also present on Adafruit which can be accessed by the Teacher.
 
 # Hardware and Software
+
 Raspberry Pi
+
 Raspbian OS
+
 Python - Libraries - RPi, Adafruit IO, JSON
+
 Arduino
+
 Arduino IDE - Libraries - SoftwareSerial
 ESP8266 Wifi Module
 IR Module
