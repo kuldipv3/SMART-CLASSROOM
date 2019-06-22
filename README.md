@@ -39,6 +39,8 @@ It can be tweaked easily according to the strength of a classroom.
 As this system is wireless ,the Arduino curcuit can be implied on the door and the
 Raspberry Pi can be used to control the electrical circuit of the classroom.
 
+![alt text](https://github.com/kuldipv3/SMART-CLASSROOM/blob/master/github.png "Working Images")
+
 A master switch is also created using MQTT and Adafruit. The raspberry pi subscribes to
 a particular feed called Master Switch on the broker, Adafruit cloud. The Pi keeps
 checking the broker for any change in status of Master Switch.
