@@ -11,8 +11,8 @@ int hasObstacle1 = HIGH;
 int hasObstacle2 = HIGH;
 
 static int count=0;
-String ssid = "verma";
-String password = "98109107200";
+String ssid = "Wifi network ID";
+String password = "Wifi Password";
  
 
 
