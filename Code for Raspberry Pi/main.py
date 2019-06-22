@@ -16,8 +16,8 @@ gp.setup(led3,gp.OUT)
 gp.setup(led4,gp.OUT)
 
 status = ""
-username = "kuldipv3"
-adaIdKey = "2ac876601c1f40f1b40c522a3e5806bc"
+username = "adafruit username"
+adaIdKey = "adafruit key"
 
 
 def connected(client):
